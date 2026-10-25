@@ -27,6 +27,16 @@
 
 ### 安装到 Codex
 
+#### 一句话安装
+
+直接把以下内容发送给 Codex：
+
+```
+将 https://github.com/l4k3q/application-writing skill 安装到本地并启用
+```
+
+#### 手动安装
+
 将仓库中的 `application-writing/` 文件夹复制到 Codex 的 skills 目录。Windows PowerShell 示例（在仓库根目录运行）：
 
 ```powershell
@@ -86,6 +96,16 @@ The skill can also handle a single requested stage. A program's actual prompt an
 | Summer research cover letter | Relevant experience, contribution, research fit, and skills the applicant hopes to develop. |
 
 ### Install in Codex
+
+#### Install in just one
+
+send this to Codex directly:
+
+```
+install this skill on my computer: https://github.com/l4k3q/application-writing
+```
+
+#### Install manually
 
 Copy the repository's `application-writing/` folder into your Codex skills directory. From the repository root, on Windows PowerShell:
 
